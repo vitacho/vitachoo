@@ -1,0 +1,22 @@
+body{
+    width: auto;
+    height: auto;
+   /* background-image: linear-gradient(60deg ,#CC5500 , #cd7f32);
+    */
+    background-color: #1d1b1b;
+    
+}
+.heading { color: #fff; }
+.heading2 { color: #FAD744; }
+.heading3 { color: #EC4D37; }
+hr {
+    border: #FAD744;
+    color: #FAD744; 
+    border-radius: #FAD744;
+}
+
+.foto{
+    width: 200px;
+    height: 200px; 
+    border-radius: 100px;
+}
